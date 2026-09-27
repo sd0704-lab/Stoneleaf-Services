@@ -148,7 +148,7 @@ Final SSD selection and installation configuration will be documented when the u
 | Primary Function | Portable / supplemental storage |
 | Status | Active |
 
-Potential Stoneleaf Services uses include:
+# Potential Stoneleaf Services uses include:
 
 - Installation media
 - ISO storage
@@ -162,64 +162,6 @@ This device should not automatically be considered a primary backup solution.
 
 ---
 
-# HW-003 — Secondary Computer
-
-| Attribute | Specification |
-| --- | --- |
-| Asset ID | `HW-003` |
-| Device Type | Computer |
-| Processor | AMD Ryzen 7 8700F |
-| Graphics | NVIDIA GeForce RTX 5060 |
-| Memory | 16 GB RAM |
-| Storage | 1 TB |
-| Status | Available |
-
-## Potential Stoneleaf Services Roles
-
-Potential future roles include:
-
-- Secondary lab workstation
-- Administrative workstation
-- Investigation workstation
-- Analysis workstation
-- Security testing system
-- Secondary virtualization capability
-- Dedicated technical workstation
-
-A permanent Stoneleaf Services role has not yet been assigned.
-
-Assignment should occur only after a technical or operational requirement is identified.
-
----
-
-# HW-004 — Additional Computer
-
-| Attribute | Specification |
-| --- | --- |
-| Asset ID | `HW-004` |
-| Device Type | Computer |
-| Processor | AMD Ryzen 5 |
-| Graphics | NVIDIA GeForce RTX 5060 |
-| Memory | 16 GB RAM |
-| Storage | 1 TB |
-| Status | Available |
-
-## Potential Stoneleaf Services Roles
-
-Potential future roles include:
-
-- Additional workstation
-- Lab endpoint
-- Security workstation
-- Investigation workstation
-- Test system
-- Secondary virtualization system
-- Dedicated technical system
-
-A permanent Stoneleaf Services role has not yet been assigned.
-
----
-
 # Storage Summary
 
 ## Current Local Storage
@@ -228,8 +170,6 @@ A permanent Stoneleaf Services role has not yet been assigned.
 | --- | ---: | --- | --- |
 | `HW-001` Internal SSD | 512 GB | NVMe SSD | Active |
 | `HW-002` External Storage | 1 TB | External SSD | Active |
-| `HW-003` Internal Storage | 1 TB | Internal storage | Available |
-| `HW-004` Internal Storage | 1 TB | Internal storage | Available |
 
 Storage physically installed in separate computers should not be treated as a single shared storage pool unless a future architecture specifically provides network-accessible storage.
 
