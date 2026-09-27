@@ -239,28 +239,45 @@ The immediate objective is to complete the Foundation documentation before proce
 
 ---
 
-## Next Phase
+# Foundation Completion
 
-Completion of the Foundation phase will establish the requirements and standards necessary to begin:
+The initial Stoneleaf Services Foundation documentation set is complete.
 
-**`01-Network-Design`**
+**Foundation Version:** 1.0  
+**Status:** Complete  
+**Next Phase:** `01-Network-Design`
 
-The Network Design phase will define:
+Future revisions to Foundation documentation will be made as requirements, architecture, infrastructure, or organizational capabilities change.
 
-- Network topology
+---
+
+# Next Phase — Network Design
+
+Development now proceeds to:
+
+`01-Network-Design`
+
+The Network Design phase will translate Stoneleaf Services requirements into a defined network architecture, including:
+
+- Logical network topology
 - IP addressing
-- Subnets
+- Subnet design
 - Static addressing
 - DHCP architecture
 - DNS architecture
 - Default gateways
+- VMware virtual networking
+- pfSense interface architecture
 - Routing
 - NAT
 - Firewall placement
-- VMware virtual networking
+- Network segmentation
+- VLAN requirements
 - Traffic flows
-- Future network segmentation
-- Future hybrid connectivity
+- Future expansion
+- Future Azure connectivity
+
+No production or lab deployment is required to complete the design phase.
 
 ---
 
