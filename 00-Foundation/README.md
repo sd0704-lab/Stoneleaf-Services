@@ -48,19 +48,18 @@ The primary objectives are to:
 
 ## Foundation Documents
 
-The following documents will be developed as part of the Foundation phase:
-
-| Document | Purpose |
-| --- | --- |
-| `Organization-Overview.md` | Defines Stoneleaf Services, its purpose, development direction, and intended capabilities. |
-| `Lab-Scope.md` | Defines the boundaries, objectives, and intended use of the Stoneleaf lab environment. |
-| `Business-Requirements.md` | Documents the organizational requirements that drive technical decisions. |
-| `Technical-Requirements.md` | Defines infrastructure, networking, operating system, security, and platform requirements. |
-| `Hardware-Inventory.md` | Records physical hardware available to support the environment. |
-| `Software-Inventory.md` | Records operating systems, hypervisors, applications, tools, and cloud platforms used by Stoneleaf Services. |
-| `Naming-Standards.md` | Establishes standardized names for servers, workstations, firewalls, network devices, cloud resources, and other systems. |
-| `Documentation-Standards.md` | Establishes standards for technical documentation, diagrams, screenshots, configuration records, and runbooks. |
-| `Change-Management.md` | Defines how significant infrastructure and configuration changes are planned, documented, implemented, validated, and reviewed. |
+| Document | Purpose | Status |
+| --- | --- | --- |
+| `Organization-Overview.md` | Defines the organization, mission, development strategy, and long-term direction | Complete |
+| `Lab-Scope.md` | Defines the purpose, boundaries, systems, and objectives of the lab environment | Complete |
+| `Business-Requirements.md` | Defines the organizational capabilities the environment must support | Complete |
+| `Technical-Requirements.md` | Translates business requirements into technical capabilities | Complete |
+| `Hardware-Inventory.md` | Documents current and planned physical hardware resources | Complete |
+| `Software-Inventory.md` | Documents current and planned software platforms | Complete |
+| `Naming-Standards.md` | Establishes naming conventions for systems, identities, groups, records, and documentation | Complete |
+| `Documentation-Standards.md` | Establishes documentation, runbook, troubleshooting, change, incident, and investigation standards | Complete |
+| `Change-Management.md` | Establishes the process for planning, implementing, validating, and recording technical changes | Complete |
+| `Identity-Roster.md` | Defines the 40 synthetic Stoneleaf Services employee identities and organizational relationships | Complete |
 
 ---
 
